@@ -52,5 +52,5 @@ O foco deste repositório é destacar o processo analítico, modelagem de dados,
 
 ---
 
-## 📂 Organização do Repositório
+
 
