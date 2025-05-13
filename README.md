@@ -52,5 +52,16 @@ O foco deste repositório é destacar o processo analítico, modelagem de dados,
 
 ---
 
+## 💼 Linkedin / Portfólio
 
+Se você quiser visualizar o projeto completo e outros materiais do meu portfólio:
+
+🔗 [linkedin.com/in/seu-nome](https://www.linkedin.com)  
+🔗 [github.com/seu-usuario](https://github.com)
+
+---
+
+## 🏷️ Tags
+
+`#PowerBI` `#DataAnalytics` `#VisualizaçãoDeDados` `#Dashboard` `#Portfólio` `#ProcessoSeletivo`
 
